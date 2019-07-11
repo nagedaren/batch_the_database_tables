@@ -5,17 +5,17 @@
 
 conf.ini配置项
 
-1 [db]
-2 names=bp_pay,members,bp_fansmore
-3 ;要更新的数据库名称，可以是多个，用“，“分隔
-4 charset=utf8
-5 num=2
-6 ;每次增加几个月的表
-7 [server]
-8 host=ip#需要自己填写mysql的ip
-9 port=3306
-10 user=root
-11 password=123456
+[db]
+names=bp_pay,members,bp_fansmore
+;要更新的数据库名称，可以是多个，用“，“分隔
+charset=utf8
+num=2
+;每次增加几个月的表
+[server]
+host=ip#需要自己填写mysql的ip
+port=3306
+user=root
+password=123456
 
 备注：
 
