@@ -1,4 +1,5 @@
 # batch_the_database_tables
+批量更新数据库中按月份分表
 启动方式：python batch_the_database_tables.py conf/conf.ini
 
 可以自己重新命名配置一个conf.ini启动。
